@@ -10,8 +10,8 @@
 | ---------------- | ----------------- |
 | AM.SC.U4AIE25001 | Abhijith R Pillai |
 | AM.SC.U4AIE25052 | Gautam Dileep     |
-| AM.SC.U4AIE250   |                   |
-| AM.SC.U4AIE250   |                   |
+| AM.SC.U4AIE20031 | Adarsh V          |
+| AM.SC.U4AIE25007 | Rohan S           |
 
 
 ---
@@ -32,15 +32,6 @@ administrators, this system will provide a clear, bird's-eye view of attendance 
 different courses, helping them identify students who might be at risk. In short, we're
 replacing a tedious, error-prone chore with a fast, accurate, and transparent tool for
 everyone
-
----
-
-## Features
-
-- 
--
--
--
 
 ---
 
