@@ -18,13 +18,26 @@
 
 ## Problem Description
 
+Imagine the start of every class. The professor pulls out a stack of papers or a huge register
+and starts calling out names one by one. It's slow, takes up valuable lecture time, and it's
+easy to make mistakes—maybe you mark the wrong person absent, or can't read someone's
+handwriting. Later, if a student wants to know their attendance percentage, it's a manual
+chore to count it all up.
 
+Our goal is to fix this frustrating, old-school process. We want to build a simple, digital
+system where faculty can mark attendance in seconds on a computer or tablet. This data will
+be stored securely and automatically updated. Students can then log in anytime to see
+exactly where they stand, without having to chase anyone for the information. For
+administrators, this system will provide a clear, bird's-eye view of attendance trends across
+different courses, helping them identify students who might be at risk. In short, we're
+replacing a tedious, error-prone chore with a fast, accurate, and transparent tool for
+everyone
 
 ---
 
 ## Features
 
--
+- 
 -
 -
 -
@@ -43,10 +56,15 @@
 
 ## Classes Implemented
 
--
--
--
--
+- Student
+- Faculty
+- Subject
+- User
+- DataStore
+- ClassSession
+- AttendanceRecord
+- AttendanceManagementSystem
+- Admin
 
 ---
 
